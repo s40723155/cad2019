@@ -324,7 +324,8 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200109185539.1">## Solovespace操作
+<t tx="leo.20200109185539.1">&lt;section&gt;
+## Solovespace操作
 
 
 
@@ -333,7 +334,7 @@ vertical: body pane on the botton</t>
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
-
+&lt;/section&gt;
 
 </t>
 </tnodes>
