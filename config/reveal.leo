@@ -18,9 +18,20 @@
 <v t="leo.20180902120523.6"><vh>body</vh>
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
-<v t="leo.20200109185539.1"><vh>封面投影片內容</vh></v>
-<v t="leo.20180902120523.9"><vh>封面投影片</vh>
+<v t="leo.20200109191052.1"><vh>封面投影片</vh>
+<v t="leo.20200109191052.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20180902120523.9"><vh>Sovespace操作</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200109191038.1"><vh> V-rep 雙輪車控制模擬</vh>
+<v t="leo.20200109191038.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200109191521.1"><vh>w16</vh>
+<v t="leo.20200109191521.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200109191746.1"><vh>w17</vh>
+<v t="leo.20200109191746.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -46,12 +57,12 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## 40723155 網際內容管理
+<t tx="leo.20180902120523.10">## Sovespace操作
 
-### KMOLab
+
 
 &lt;small&gt;
-Created by [40723155](https://s40723155.github.io/cad2019/)
+(https://www.youtube.com/watch?v=5d9P6qI9fso)
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
@@ -324,17 +335,88 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200109185539.1">&lt;section&gt;
-## Solovespace操作
+<t tx="leo.20200109191038.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109191038.2">## V-rep 雙輪車控制模擬
 
 
 
 &lt;small&gt;
-(https://www.youtube.com/watch?v=5d9P6qI9fso)
+(https://www.youtube.com/watch?v=0epAzqDpHDk)
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200109191052.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
 &lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109191052.2">## 40723155 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [40723155](https://s40723155.github.io/cad2019/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200109191521.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109191521.2">## W16 2a cad 練習
+
+ ###Task2 中 Onshpae 越野車零組件之尺寸與配置, 利用 Solvespace 完成簡化後的越野車零組件設計繪圖.
+
+&lt;small&gt;
+(https://www.youtube.com/watch?v=0KKwCIYgx3s)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200109191746.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109191746.2">## W17 協同任務"
+
+ ###翻譯原文書
+
+&lt;small&gt;
+(http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
 
 </t>
 </tnodes>
