@@ -409,13 +409,16 @@ Created by [40723155](https://s40723155.github.io/cad2019/)
 </t>
 <t tx="leo.20200109191746.2">## W17 協同任務"
 
- ###翻譯原文書
+ 
 
 &lt;small&gt;
-(http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm)
+(https://github.com/s40723155/cad2019)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+
+[協同翻譯](https://s40723155.github.io/cad2019/content/week17.html)
+&lt;img src="../images/原文書.png"
+width="600px"&gt;
 
 
 </t>
