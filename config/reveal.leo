@@ -65,7 +65,8 @@
 (https://www.youtube.com/watch?v=5d9P6qI9fso)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+&lt;img src="../images/solvespace圖片.png"
+width="600px"&gt;
 
 
 </t>
@@ -352,7 +353,8 @@ vertical: body pane on the botton</t>
 (https://www.youtube.com/watch?v=0epAzqDpHDk)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+&lt;img src="../images/v rep3圖片.png"
+width="600px"&gt;
 
 
 </t>
@@ -417,7 +419,8 @@ Created by [40723155](https://s40723155.github.io/cad2019/)
 
 
 [協同翻譯](https://s40723155.github.io/cad2019/content/week17.html)
-&lt;img src="../images/原文書.png"
+
+&lt;img src="../images/原文.png"
 width="600px"&gt;
 
 
